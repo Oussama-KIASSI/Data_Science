@@ -1,2 +1,2 @@
-# Coursera-Capstone
-This repository is about my applied data science capstone : The battle of neighborhoods.
+# Coursera-Data-Science
+This repository is about my projects of the data science professional certificate.
