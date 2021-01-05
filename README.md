@@ -3,14 +3,14 @@ This repository contains some of my data science projects.
 
 It is distributed as follow:
 ```
-Supersived learning project
+Supervised learning project
    |-- Loan classifier
    |   |-- Data
    |   |   |-- loan_test.csv
    |   |   |-- loan_train.csv
    |   |-- Loan classifier.ipynb
    |-- Supervised_Algorithms.MD
-Unsupersived learning project
+Unsupervised learning project
    |-- London Businesses benchmarking
    |   |-- London businesses benchmarking.ipynb
    |   |-- London_Businesses_Benchmarking.pdf
