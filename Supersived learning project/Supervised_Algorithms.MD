@@ -1,4 +1,4 @@
-# The algorithms aborded in this folder are: <br/> 
+# The algorithms used in this folder are: <br/> 
 
 1- Logistic Regression <br/>
 2- Support Vector Machine<br/>
