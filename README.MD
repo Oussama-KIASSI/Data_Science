@@ -3,8 +3,6 @@ This repository contains some of my data science projects.
 
 It is distributed as follow:
 ```
-LICENSE
-README.md
 Supervised learning project
    |-- Loan classifier
    |   |-- Data
@@ -17,3 +15,6 @@ Unsupervised learning project
    |   |-- London businesses benchmarking_main.ipynb
    |   |-- London businesses benchmarking_report.pdf
    |-- Unsupervised_Algorithms.MD
+LICENSE
+README.md
+
