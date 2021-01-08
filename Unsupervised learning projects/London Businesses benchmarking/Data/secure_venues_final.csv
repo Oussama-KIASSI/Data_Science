@@ -1,0 +1,167 @@
+,Location,Borough,Postcode,Latitude,Longitude,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+0,Abbey Wood,Bexley,SE2,51.492450000000076,0.12127000000003818,0,Grocery Store,Supermarket,Pub,Fast Food Restaurant,Bakery,Historic Site,Train Station,Clothing Store,Gastropub,Gym / Fitness Center
+1,Acton,Ealing,W3,51.51324000000005,-0.2674599999999714,1,Coffee Shop,Pub,Café,Park,Middle Eastern Restaurant,Gym / Fitness Center,Pizza Place,Gastropub,Grocery Store,Bookstore
+2,Anerley,Bromley,SE20,51.41009000000008,-0.05682999999993399,1,Pub,Park,Café,Italian Restaurant,Gastropub,Gym / Fitness Center,Indian Restaurant,Coffee Shop,Supermarket,Grocery Store
+3,Arkley,Barnet,EN5,51.64441500000004,-0.1791830389999518,1,Pub,Coffee Shop,Café,Grocery Store,Supermarket,Italian Restaurant,Turkish Restaurant,Park,Pharmacy,Golf Course
+4,Arnos Grove,Enfield,N11,51.616310000000055,-0.1383899999999585,0,Café,Park,Grocery Store,Greek Restaurant,Pub,Portuguese Restaurant,Bakery,Gym / Fitness Center,Coffee Shop,Turkish Restaurant
+5,Balham,Wandsworth,SW12,51.44822000000005,-0.1483899999999494,1,Coffee Shop,Pub,Park,Pizza Place,Café,Bakery,Beer Store,Italian Restaurant,Market,Supermarket
+6,Barnes,Richmond upon Thames,SW13,51.47469000000007,-0.24162999999992962,1,Coffee Shop,Pub,Park,Café,French Restaurant,Japanese Restaurant,Pizza Place,Thai Restaurant,Restaurant,Wine Bar
+7,Barnet Gate,Barnet,NW7,51.615680000000054,-0.2451099999999542,0,Supermarket,Pub,Coffee Shop,Grocery Store,Bakery,Gym / Fitness Center,Park,Sandwich Place,Chinese Restaurant,Golf Course
+8,Battersea,Wandsworth,SW11,51.46760000000006,-0.16289999999997917,1,Pub,Coffee Shop,Park,Café,French Restaurant,Pizza Place,Plaza,Ice Cream Shop,Bakery,Italian Restaurant
+9,Beckenham,Bromley,BR3,51.415095000000065,-0.035402759999954014,1,Pub,Café,Park,Grocery Store,Coffee Shop,Gym / Fitness Center,Indian Restaurant,Gastropub,Italian Restaurant,Athletics & Sports
+10,Beckton,Newham,E6,51.53292000000005,0.05461000000002514,0,Indian Restaurant,Hotel,Coffee Shop,Supermarket,Pub,Park,Gym / Fitness Center,Light Rail Station,Ice Cream Shop,Clothing Store
+11,Bedford Park,Ealing,W4,51.48944000000006,-0.26193999999992457,1,Pub,Coffee Shop,Park,Café,Gym / Fitness Center,Botanical Garden,French Restaurant,Japanese Restaurant,Pizza Place,Historic Site
+12,Bellingham,Lewisham,SE6,51.43722000000008,-0.018679999999960728,1,Pub,Coffee Shop,Grocery Store,Park,Café,Supermarket,Gym / Fitness Center,Italian Restaurant,Indian Restaurant,Fish & Chips Shop
+13,Bexleyheath (also Bexley New Town),Bexley,DA6,51.50642000000005,-0.1272099999999341,0,Hotel,Bookstore,Clothing Store,Theater,Plaza,Indian Restaurant,Steakhouse,Cocktail Bar,Lounge,History Museum
+14,Blackheath,Lewisham,SE3,51.47138000000007,0.023380000000031487,1,Pub,Park,Garden,Café,Turkish Restaurant,Historic Site,Grocery Store,Market,Furniture / Home Store,French Restaurant
+15,Blackheath Royal Standard,Greenwich,SE3,51.47138000000007,0.023380000000031487,1,Pub,Park,Garden,Café,Turkish Restaurant,Historic Site,Grocery Store,Market,Furniture / Home Store,French Restaurant
+16,Brent Cross,Barnet,NW2,51.562370000000044,-0.22130999999995993,0,Park,Café,Italian Restaurant,Grocery Store,Pub,Korean Restaurant,Sushi Restaurant,Bakery,Pizza Place,Supermarket
+17,Brent Park,Brent,NW10,51.53938000000005,-0.25204999999994016,1,Pub,Café,Park,Coffee Shop,Portuguese Restaurant,Italian Restaurant,Middle Eastern Restaurant,Restaurant,Gym / Fitness Center,Thai Restaurant
+18,Brockley,Lewisham,SE4,51.462680000000034,-0.035579999999924894,1,Coffee Shop,Pub,Park,Bar,Café,Italian Restaurant,Pizza Place,Cocktail Bar,Brewery,Beer Store
+19,Brondesbury,Brent,NW6,51.541870000000074,-0.1979499999999348,0,Bakery,Café,Pub,Park,Coffee Shop,Movie Theater,Thai Restaurant,Gym / Fitness Center,Pizza Place,Restaurant
+20,Brunswick Park,Barnet,N11,51.616310000000055,-0.1383899999999585,0,Café,Park,Grocery Store,Greek Restaurant,Pub,Portuguese Restaurant,Bakery,Gym / Fitness Center,Coffee Shop,Turkish Restaurant
+21,"Burroughs, The",Barnet,NW4,51.589180000000056,-0.22804999999993925,0,Grocery Store,Supermarket,Park,Gym / Fitness Center,Turkish Restaurant,Korean Restaurant,Pub,Bakery,Café,Golf Course
+22,Cann Hall,Waltham Forest,E11,51.576760000000036,0.027230000000031396,1,Pub,Grocery Store,Coffee Shop,Pizza Place,Café,Restaurant,Park,Supermarket,Bakery,Brewery
+23,Canning Town,Newham,E16,51.50913000000003,0.015280000000075233,0,Hotel,Coffee Shop,Park,Pub,Italian Restaurant,Gym / Fitness Center,Bar,Turkish Restaurant,Scenic Lookout,English Restaurant
+24,Castelnau,Richmond upon Thames,SW13,51.47469000000007,-0.24162999999992962,1,Coffee Shop,Pub,Park,Café,French Restaurant,Japanese Restaurant,Pizza Place,Thai Restaurant,Restaurant,Wine Bar
+25,Catford,Lewisham,SE6,51.43722000000008,-0.018679999999960728,1,Pub,Coffee Shop,Grocery Store,Park,Café,Supermarket,Gym / Fitness Center,Italian Restaurant,Indian Restaurant,Fish & Chips Shop
+26,Charlton,Greenwich,SE7,51.48747000000003,0.02795000000003256,1,Pub,Park,Garden,Historic Site,Hotel,Grocery Store,Coffee Shop,Turkish Restaurant,Café,Market
+27,Childs Hill,Barnet,NW2,51.562370000000044,-0.22130999999995993,0,Park,Café,Italian Restaurant,Grocery Store,Pub,Korean Restaurant,Sushi Restaurant,Bakery,Pizza Place,Supermarket
+28,Chinbrook,Lewisham,SE12,51.44759000000005,0.013500000000021828,1,Pub,Café,Park,Grocery Store,Restaurant,Gym / Fitness Center,Coffee Shop,Bakery,Italian Restaurant,Gym
+29,Chingford,Waltham Forest,E4,51.617800000000045,-0.009339999999951942,1,Pub,Coffee Shop,Hotel,Grocery Store,Supermarket,Café,Italian Restaurant,Turkish Restaurant,Gym / Fitness Center,Park
+30,Chiswick,Hounslow,W4,51.48944000000006,-0.26193999999992457,1,Pub,Coffee Shop,Park,Café,Gym / Fitness Center,Botanical Garden,French Restaurant,Japanese Restaurant,Pizza Place,Historic Site
+31,Chiswick,Ealing,W4,51.48944000000006,-0.26193999999992457,1,Pub,Coffee Shop,Park,Café,Gym / Fitness Center,Botanical Garden,French Restaurant,Japanese Restaurant,Pizza Place,Historic Site
+32,Church End,Brent,NW10,51.53938000000005,-0.25204999999994016,0,Park,Pub,Coffee Shop,Café,Italian Restaurant,Grocery Store,Turkish Restaurant,Portuguese Restaurant,Supermarket,Gym / Fitness Center
+33,Church End,Barnet,N3,51.60104000000007,-0.19400999999993473,0,Park,Pub,Coffee Shop,Café,Italian Restaurant,Grocery Store,Turkish Restaurant,Portuguese Restaurant,Supermarket,Gym / Fitness Center
+34,Clapham,Wandsworth,SW4,51.46095000000008,-0.13921999999996615,1,Coffee Shop,Pub,Park,Pizza Place,Café,Market,Italian Restaurant,Supermarket,Bistro,Burger Joint
+35,Colindale,Barnet,NW9,51.58486000000005,-0.24880999999993492,0,Coffee Shop,Grocery Store,Café,Gym / Fitness Center,Supermarket,Park,Pub,Chinese Restaurant,Fast Food Restaurant,Clothing Store
+36,Colliers Wood,Merton,SW19,51.421700000000044,-0.2079599999999573,1,Pub,Park,Coffee Shop,Sushi Restaurant,Tennis Stadium,Italian Restaurant,Burger Joint,Café,Tennis Court,Scenic Lookout
+37,Colney Hatch,Barnet,N11,51.616310000000055,-0.1383899999999585,0,Café,Park,Grocery Store,Greek Restaurant,Pub,Portuguese Restaurant,Bakery,Gym / Fitness Center,Coffee Shop,Turkish Restaurant
+38,Cricklewood,Barnet,NW2,51.562370000000044,-0.22130999999995993,0,Park,Café,Italian Restaurant,Grocery Store,Pub,Korean Restaurant,Sushi Restaurant,Bakery,Pizza Place,Supermarket
+39,Cricklewood,Brent,NW2,51.562370000000044,-0.22130999999995993,0,Park,Café,Italian Restaurant,Grocery Store,Pub,Korean Restaurant,Sushi Restaurant,Bakery,Pizza Place,Supermarket
+40,Crofton Park,Lewisham,SE4,51.462680000000034,-0.035579999999924894,1,Coffee Shop,Pub,Park,Bar,Café,Italian Restaurant,Pizza Place,Cocktail Bar,Brewery,Beer Store
+41,Crossness,Bexley,SE2,51.492450000000076,0.12127000000003818,0,Grocery Store,Supermarket,Pub,Fast Food Restaurant,Bakery,Historic Site,Train Station,Clothing Store,Gastropub,Gym / Fitness Center
+42,Crystal Palace,Bromley,SE19,51.41990000000004,-0.08807999999993399,1,Pub,Park,Italian Restaurant,Coffee Shop,Café,Gastropub,Gym / Fitness Center,Indian Restaurant,Bakery,Supermarket
+43,Custom House,Newham,E16,51.50913000000003,0.015280000000075233,0,Hotel,Coffee Shop,Park,Pub,Italian Restaurant,Gym / Fitness Center,Bar,Turkish Restaurant,Scenic Lookout,English Restaurant
+44,Deptford,Lewisham,SE8,51.48114000000004,-0.02466999999995778,1,Pub,Park,Coffee Shop,Garden,Café,Art Gallery,Turkish Restaurant,Historic Site,History Museum,Pizza Place
+45,Dollis Hill,Brent,NW2,51.562370000000044,-0.22130999999995993,0,Park,Café,Italian Restaurant,Grocery Store,Pub,Korean Restaurant,Sushi Restaurant,Bakery,Pizza Place,Supermarket
+46,Ealing,Ealing,W5,51.51406000000003,-0.30072999999993044,1,Pub,Coffee Shop,Park,Hotel,Italian Restaurant,Gym / Fitness Center,Café,Pizza Place,Burger Joint,Grocery Store
+47,Earlsfield,Wandsworth,SW18,51.45066000000003,-0.18996999999995978,1,Coffee Shop,Park,Pub,Pizza Place,Café,Supermarket,Grocery Store,Tennis Stadium,Gym,Breakfast Spot
+48,East Finchley,Barnet,N2,51.589270000000056,-0.16394999999994297,1,Pub,Park,Coffee Shop,Café,Grocery Store,Italian Restaurant,Bakery,Middle Eastern Restaurant,Turkish Restaurant,Gym / Fitness Center
+49,East Ham,Newham,E6,51.53292000000005,0.05461000000002514,0,Indian Restaurant,Hotel,Coffee Shop,Supermarket,Pub,Park,Gym / Fitness Center,Light Rail Station,Ice Cream Shop,Clothing Store
+50,East Sheen,Richmond upon Thames,SW14,51.46482000000003,-0.26590999999996257,1,Pub,Coffee Shop,Park,Garden,Restaurant,Botanical Garden,Café,Tea Room,French Restaurant,Italian Restaurant
+51,Edmonton,Enfield,N9,51.62879000000004,-0.05619999999993297,0,Supermarket,Coffee Shop,Turkish Restaurant,Furniture / Home Store,Pub,Gym / Fitness Center,Train Station,Pizza Place,Grocery Store,Fast Food Restaurant
+52,Eltham,Greenwich,SE9,51.444630000000075,0.05212000000005901,0,Grocery Store,Pub,Park,Platform,Gym / Fitness Center,Golf Course,Italian Restaurant,Rugby Pitch,Mediterranean Restaurant,Fish & Chips Shop
+53,Falconwood,Bexley,SE9,51.444630000000075,0.05212000000005901,0,Grocery Store,Pub,Park,Platform,Gym / Fitness Center,Golf Course,Italian Restaurant,Rugby Pitch,Mediterranean Restaurant,Fish & Chips Shop
+54,Falconwood,Greenwich,SE9,51.444630000000075,0.05212000000005901,0,Grocery Store,Pub,Park,Platform,Gym / Fitness Center,Golf Course,Italian Restaurant,Rugby Pitch,Mediterranean Restaurant,Fish & Chips Shop
+55,Finchley,Barnet,N2,51.589270000000056,-0.16394999999994297,1,Pub,Park,Coffee Shop,Café,Grocery Store,Italian Restaurant,Bakery,Middle Eastern Restaurant,Turkish Restaurant,Gym / Fitness Center
+56,Forest Gate,Newham,E7,51.54668000000004,0.025580000000047676,1,Pub,Café,Park,Indian Restaurant,Grocery Store,Mediterranean Restaurant,Restaurant,Toy / Game Store,Shopping Mall,Clothing Store
+57,Forest Hill,Lewisham,SE23,51.441220000000044,-0.047639999999944393,1,Park,Pub,Coffee Shop,Café,Pizza Place,Supermarket,Gym / Fitness Center,Gastropub,Garden Center,Indian Restaurant
+58,Friern Barnet,Barnet,N11,51.616310000000055,-0.1383899999999585,0,Café,Park,Grocery Store,Greek Restaurant,Pub,Portuguese Restaurant,Bakery,Gym / Fitness Center,Coffee Shop,Turkish Restaurant
+59,Golders Green,Barnet,NW11,51.576730000000055,-0.19694999999995844,0,Park,Café,Grocery Store,Bakery,Pub,Turkish Restaurant,Italian Restaurant,Hotel,Korean Restaurant,Coffee Shop
+60,Grahame Park,Barnet,NW9,51.58486000000005,-0.24880999999993492,0,Coffee Shop,Grocery Store,Café,Gym / Fitness Center,Supermarket,Park,Pub,Chinese Restaurant,Fast Food Restaurant,Clothing Store
+61,Grange Park,Enfield,N21,51.63519000000008,-0.09302999999994199,1,Pub,Coffee Shop,Supermarket,Turkish Restaurant,Gym / Fitness Center,Park,Grocery Store,Café,Greek Restaurant,Fish & Chips Shop
+62,Greenwich,Greenwich,SE10,51.48454000000004,0.002750000000048658,1,Pub,Park,Coffee Shop,Garden,Café,Bar,Furniture / Home Store,Scenic Lookout,History Museum,Pizza Place
+63,Grove Park,Hounslow,W4,51.48944000000006,-0.26193999999992457,1,Pub,Café,Park,Coffee Shop,Gym / Fitness Center,Grocery Store,Bakery,Restaurant,Supermarket,French Restaurant
+64,Grove Park,Lewisham,SE12,51.44759000000005,0.013500000000021828,1,Pub,Café,Park,Coffee Shop,Gym / Fitness Center,Grocery Store,Bakery,Restaurant,Supermarket,French Restaurant
+65,Gunnersbury,Hounslow,W4,51.48944000000006,-0.26193999999992457,1,Pub,Coffee Shop,Park,Café,Gym / Fitness Center,Botanical Garden,French Restaurant,Japanese Restaurant,Pizza Place,Historic Site
+66,The Hale,Barnet,NW7,51.615680000000054,-0.2451099999999542,0,Supermarket,Pub,Coffee Shop,Grocery Store,Bakery,Gym / Fitness Center,Park,Sandwich Place,Chinese Restaurant,Golf Course
+67,Hampstead Garden Suburb,Barnet,N2,51.589270000000056,-0.16394999999994297,1,Pub,Park,Coffee Shop,Café,Grocery Store,Italian Restaurant,Bakery,Middle Eastern Restaurant,Turkish Restaurant,Gym / Fitness Center
+68,Hanwell,Ealing,W7,51.50878000000006,-0.3362999999999374,1,Pub,Park,Coffee Shop,Café,Hotel,Indian Restaurant,Pizza Place,Italian Restaurant,Bakery,Gym
+69,Harlesden,Brent,NW10,51.53938000000005,-0.25204999999994016,1,Pub,Café,Park,Coffee Shop,Portuguese Restaurant,Italian Restaurant,Middle Eastern Restaurant,Restaurant,Gym / Fitness Center,Thai Restaurant
+70,Hendon,Barnet,NW4,51.589180000000056,-0.22804999999993925,0,Grocery Store,Supermarket,Park,Gym / Fitness Center,Turkish Restaurant,Korean Restaurant,Pub,Bakery,Café,Golf Course
+71,Highams Park,Waltham Forest,E4,51.617800000000045,-0.009339999999951942,1,Pub,Coffee Shop,Hotel,Grocery Store,Supermarket,Café,Italian Restaurant,Turkish Restaurant,Gym / Fitness Center,Park
+72,Hither Green,Lewisham,SE13,51.46196000000003,-0.007539999999949032,1,Pub,Coffee Shop,Park,Café,Garden,Supermarket,Bar,Fish & Chips Shop,Street Food Gathering,Indie Movie Theater
+73,Honor Oak,Lewisham,SE23,51.441220000000044,-0.047639999999944393,1,Park,Pub,Coffee Shop,Café,Pizza Place,Supermarket,Gym / Fitness Center,Gastropub,Garden Center,Indian Restaurant
+74,Horn Park,Greenwich,SE12,51.44759000000005,0.013500000000021828,1,Pub,Café,Park,Grocery Store,Restaurant,Gym / Fitness Center,Coffee Shop,Bakery,Italian Restaurant,Gym
+75,Horn Park,Lewisham,SE12,51.44759000000005,0.013500000000021828,1,Pub,Café,Park,Grocery Store,Restaurant,Gym / Fitness Center,Coffee Shop,Bakery,Italian Restaurant,Gym
+76,The Hyde,Barnet,NW9,51.58486000000005,-0.24880999999993492,0,Coffee Shop,Grocery Store,Café,Gym / Fitness Center,Supermarket,Park,Pub,Chinese Restaurant,Fast Food Restaurant,Clothing Store
+77,Kensal Green,Brent,NW10,51.53938000000005,-0.25204999999994016,1,Pub,Café,Park,Coffee Shop,Portuguese Restaurant,Italian Restaurant,Middle Eastern Restaurant,Restaurant,Gym / Fitness Center,Thai Restaurant
+78,Kenton,Brent,HA3,51.50642000000005,-0.1272099999999341,0,Hotel,Bookstore,Clothing Store,Theater,Plaza,Indian Restaurant,Steakhouse,Cocktail Bar,Lounge,History Museum
+79,Kenton,Harrow,HA3,51.50642000000005,-0.1272099999999341,0,Hotel,Bookstore,Clothing Store,Theater,Plaza,Indian Restaurant,Steakhouse,Cocktail Bar,Lounge,History Museum
+80,Kidbrooke,Greenwich,SE3,51.47138000000007,0.023380000000031487,1,Pub,Park,Garden,Café,Turkish Restaurant,Historic Site,Grocery Store,Market,Furniture / Home Store,French Restaurant
+81,Kilburn,Brent,NW6,51.541870000000074,-0.1979499999999348,0,Bakery,Café,Pub,Park,Coffee Shop,Movie Theater,Thai Restaurant,Gym / Fitness Center,Pizza Place,Restaurant
+82,Kingsbury,Brent,NW9,51.58486000000005,-0.24880999999993492,0,Coffee Shop,Grocery Store,Café,Gym / Fitness Center,Supermarket,Park,Pub,Chinese Restaurant,Fast Food Restaurant,Clothing Store
+83,Kingston Vale,Kingston upon Thames,SW15,51.457550000000026,-0.21844999999996162,1,Park,Café,Coffee Shop,Pub,Pizza Place,Tennis Court,Grocery Store,Tennis Stadium,Italian Restaurant,Gym
+84,Ladywell,Lewisham,SE4,51.462680000000034,-0.035579999999924894,1,Coffee Shop,Pub,Park,Bar,Café,Italian Restaurant,Pizza Place,Cocktail Bar,Brewery,Beer Store
+85,Lee,Lewisham,SE12,51.44759000000005,0.013500000000021828,1,Pub,Café,Park,Grocery Store,Restaurant,Gym / Fitness Center,Coffee Shop,Bakery,Italian Restaurant,Gym
+86,Lewisham,Lewisham,SE13,51.46196000000003,-0.007539999999949032,1,Pub,Coffee Shop,Park,Café,Garden,Supermarket,Bar,Fish & Chips Shop,Street Food Gathering,Indie Movie Theater
+87,Leyton,Waltham Forest,E10,51.558850000000064,-0.00732999999996764,1,Pub,Café,Park,Restaurant,Coffee Shop,Bar,Art Gallery,Farm,Mediterranean Restaurant,Italian Restaurant
+88,Leytonstone,Waltham Forest,E11,51.576760000000036,0.027230000000031396,1,Pub,Grocery Store,Coffee Shop,Pizza Place,Café,Restaurant,Park,Supermarket,Bakery,Brewery
+89,Little Ilford,Newham,E12,51.552410000000066,0.05258000000003449,0,Grocery Store,Park,Indian Restaurant,Pub,Bakery,Pizza Place,Coffee Shop,Supermarket,Hotel,Gym / Fitness Center
+90,Longlands,Bexley,SE9,51.444630000000075,0.05212000000005901,0,Grocery Store,Pub,Park,Platform,Gym / Fitness Center,Golf Course,Italian Restaurant,Rugby Pitch,Mediterranean Restaurant,Fish & Chips Shop
+91,Manor Park,Newham,E12,51.552410000000066,0.05258000000003449,0,Grocery Store,Park,Indian Restaurant,Pub,Bakery,Pizza Place,Coffee Shop,Supermarket,Hotel,Gym / Fitness Center
+92,Maryland,Newham,E15,51.540140000000065,0.0027800000000297587,1,Pub,Café,Park,Restaurant,Grocery Store,Bar,Hotel,Art Gallery,Italian Restaurant,Coffee Shop
+93,Maze Hill,Greenwich,SE10,51.48454000000004,0.002750000000048658,1,Pub,Park,Coffee Shop,Garden,Café,Bar,Furniture / Home Store,Scenic Lookout,History Museum,Pizza Place
+94,Merton Park,Merton,SW19,51.421700000000044,-0.2079599999999573,1,Pub,Park,Coffee Shop,Sushi Restaurant,Tennis Stadium,Italian Restaurant,Burger Joint,Café,Tennis Court,Scenic Lookout
+95,Middle Park,Greenwich,SE9,51.444630000000075,0.05212000000005901,0,Grocery Store,Pub,Park,Platform,Gym / Fitness Center,Golf Course,Italian Restaurant,Rugby Pitch,Mediterranean Restaurant,Fish & Chips Shop
+96,Mill Hill,Barnet,NW7,51.615680000000054,-0.2451099999999542,0,Supermarket,Pub,Coffee Shop,Grocery Store,Bakery,Gym / Fitness Center,Park,Sandwich Place,Chinese Restaurant,Golf Course
+97,Mortlake,Richmond upon Thames,SW14,51.46482000000003,-0.26590999999996257,1,Pub,Coffee Shop,Park,Garden,Restaurant,Botanical Garden,Café,Tea Room,French Restaurant,Italian Restaurant
+98,Mottingham,Bromley,SE9,51.444630000000075,0.05212000000005901,0,Grocery Store,Pub,Park,Platform,Gym / Fitness Center,Golf Course,Italian Restaurant,Rugby Pitch,Mediterranean Restaurant,Fish & Chips Shop
+99,Muswell Hill,Barnet,N10,51.59107000000006,-0.14851999999996224,1,Pub,Café,Coffee Shop,Bakery,Park,Gym / Fitness Center,Pizza Place,French Restaurant,Turkish Restaurant,Trail
+100,Neasden,Brent,NW2,51.562370000000044,-0.22130999999995993,0,Park,Café,Italian Restaurant,Grocery Store,Pub,Korean Restaurant,Sushi Restaurant,Bakery,Pizza Place,Supermarket
+101,New Cross,Lewisham,SE14,51.47489000000007,-0.04037999999997055,1,Coffee Shop,Pub,Café,Italian Restaurant,Park,Bar,Beer Store,Cocktail Bar,Gastropub,Fish & Chips Shop
+102,New Eltham,Greenwich,SE9,51.444630000000075,0.05212000000005901,0,Grocery Store,Pub,Park,Platform,Gym / Fitness Center,Golf Course,Italian Restaurant,Rugby Pitch,Mediterranean Restaurant,Fish & Chips Shop
+103,New Southgate,Barnet,N11,51.616310000000055,-0.1383899999999585,0,Café,Park,Grocery Store,Greek Restaurant,Pub,Portuguese Restaurant,Bakery,Gym / Fitness Center,Coffee Shop,Turkish Restaurant
+104,Nine Elms,Wandsworth,SW8,51.476230000000044,-0.13055999999994583,1,Café,Coffee Shop,Park,Pub,Market,Deli / Bodega,Bakery,Italian Restaurant,Gastropub,Pizza Place
+105,Norbury,Croydon,SW16,51.41870000000006,-0.12752999999997883,1,Pub,Coffee Shop,Café,Bar,Park,Italian Restaurant,Supermarket,Pizza Place,Grocery Store,Bakery
+106,North Finchley,Barnet,N12,51.615920000000074,-0.1767399999999384,0,Coffee Shop,Grocery Store,Pub,Supermarket,Turkish Restaurant,Café,Park,Italian Restaurant,Bakery,Indian Restaurant
+107,North Woolwich,Newham,E16,51.50913000000003,0.015280000000075233,0,Hotel,Coffee Shop,Park,Pub,Italian Restaurant,Gym / Fitness Center,Bar,Turkish Restaurant,Scenic Lookout,English Restaurant
+108,Oakleigh Park,Barnet,N20,51.63261000000006,-0.17561999999992395,1,Coffee Shop,Pub,Grocery Store,Café,Italian Restaurant,Supermarket,Park,Turkish Restaurant,Fish & Chips Shop,Greek Restaurant
+109,Osidge,Barnet,N14,51.63429000000008,-0.13365999999996347,0,Grocery Store,Pub,Coffee Shop,Café,Italian Restaurant,Park,Turkish Restaurant,Supermarket,Greek Restaurant,Bakery
+110,Palmers Green,Enfield,N13,51.62003000000004,-0.10659999999995762,0,Grocery Store,Coffee Shop,Turkish Restaurant,Supermarket,Pub,Park,Café,Greek Restaurant,Mediterranean Restaurant,Pizza Place
+111,Park Royal,Brent,NW10,51.53938000000005,-0.25204999999994016,1,Pub,Café,Park,Coffee Shop,Portuguese Restaurant,Italian Restaurant,Middle Eastern Restaurant,Restaurant,Gym / Fitness Center,Thai Restaurant
+112,Park Royal,Ealing,NW10,51.53938000000005,-0.25204999999994016,1,Pub,Café,Park,Coffee Shop,Portuguese Restaurant,Italian Restaurant,Middle Eastern Restaurant,Restaurant,Gym / Fitness Center,Thai Restaurant
+113,Penge,Bromley,SE20,51.41009000000008,-0.05682999999993399,1,Pub,Park,Café,Italian Restaurant,Gastropub,Gym / Fitness Center,Indian Restaurant,Coffee Shop,Supermarket,Grocery Store
+114,Plaistow,Newham,E13,51.52653000000004,0.02876000000003387,0,Hotel,Pub,Park,Coffee Shop,Grocery Store,Café,Indian Restaurant,Supermarket,Hotel Bar,Italian Restaurant
+115,Plumstead,Greenwich,SE18,51.48207000000008,0.07143000000002075,0,Grocery Store,Pub,Park,Café,Coffee Shop,Gym / Fitness Center,Bakery,Italian Restaurant,Discount Store,Clothing Store
+116,Putney,Wandsworth,SW15,51.457550000000026,-0.21844999999996162,1,Park,Café,Coffee Shop,Pub,Pizza Place,Tennis Court,Grocery Store,Tennis Stadium,Italian Restaurant,Gym
+117,Queen's Park,Brent,NW6,51.541870000000074,-0.1979499999999348,0,Bakery,Café,Pub,Park,Coffee Shop,Movie Theater,Thai Restaurant,Gym / Fitness Center,Pizza Place,Restaurant
+118,Queensbury,Harrow,HA3,51.50642000000005,-0.1272099999999341,0,Hotel,Bookstore,Clothing Store,Theater,Plaza,Indian Restaurant,Steakhouse,Cocktail Bar,Lounge,History Museum
+119,Queensbury,Brent,HA3,51.50642000000005,-0.1272099999999341,0,Hotel,Bookstore,Clothing Store,Theater,Plaza,Indian Restaurant,Steakhouse,Cocktail Bar,Lounge,History Museum
+120,Raynes Park,Merton,SW20,51.41117000000003,-0.22622999999993,0,Park,Korean Restaurant,Pub,Tennis Court,Café,Sushi Restaurant,Tennis Stadium,Italian Restaurant,Supermarket,Gym
+121,Roehampton,Wandsworth,SW15,51.457550000000026,-0.21844999999996162,1,Park,Café,Coffee Shop,Pub,Pizza Place,Tennis Court,Grocery Store,Tennis Stadium,Italian Restaurant,Gym
+122,Selhurst,Croydon,SE25,51.39925000000005,-0.07413999999994303,1,Pub,Grocery Store,Park,Coffee Shop,Café,Italian Restaurant,Gastropub,Gym / Fitness Center,Fast Food Restaurant,Pizza Place
+123,Shooter's Hill,Greenwich,SE18,51.48207000000008,0.07143000000002075,0,Grocery Store,Pub,Park,Café,Coffee Shop,Gym / Fitness Center,Bakery,Italian Restaurant,Discount Store,Clothing Store
+124,Silvertown,Newham,E16,51.50913000000003,0.015280000000075233,0,Hotel,Coffee Shop,Park,Pub,Italian Restaurant,Gym / Fitness Center,Bar,Turkish Restaurant,Scenic Lookout,English Restaurant
+125,Snaresbrook,Redbridge,E11,51.576760000000036,0.027230000000031396,1,Pub,Grocery Store,Coffee Shop,Pizza Place,Café,Restaurant,Park,Supermarket,Bakery,Brewery
+126,Snaresbrook,Waltham Forest,E11,51.576760000000036,0.027230000000031396,1,Pub,Grocery Store,Coffee Shop,Pizza Place,Café,Restaurant,Park,Supermarket,Bakery,Brewery
+127,South Norwood,Croydon,SE25,51.39925000000005,-0.07413999999994303,1,Pub,Grocery Store,Park,Coffee Shop,Café,Italian Restaurant,Gastropub,Gym / Fitness Center,Fast Food Restaurant,Pizza Place
+128,South Wimbledon,Merton,SW19,51.421700000000044,-0.2079599999999573,1,Pub,Park,Coffee Shop,Sushi Restaurant,Tennis Stadium,Italian Restaurant,Burger Joint,Café,Tennis Court,Scenic Lookout
+129,South Woodford,Redbridge,E18,51.589770000000044,0.030520000000024083,1,Pub,Grocery Store,Pizza Place,Coffee Shop,Café,Turkish Restaurant,Indian Restaurant,Park,Bakery,Italian Restaurant
+130,Southend,Lewisham,SE6,51.43722000000008,-0.018679999999960728,1,Pub,Coffee Shop,Grocery Store,Park,Café,Supermarket,Gym / Fitness Center,Italian Restaurant,Indian Restaurant,Fish & Chips Shop
+131,Southfields,Wandsworth,SW18,51.45066000000003,-0.18996999999995978,1,Coffee Shop,Park,Pub,Pizza Place,Café,Supermarket,Grocery Store,Tennis Stadium,Gym,Breakfast Spot
+132,Southgate,Enfield,N14,51.63429000000008,-0.13365999999996347,0,Grocery Store,Pub,Coffee Shop,Café,Italian Restaurant,Park,Turkish Restaurant,Supermarket,Greek Restaurant,Bakery
+133,St Johns,Lewisham,SE4,51.462680000000034,-0.035579999999924894,1,Coffee Shop,Pub,Park,Bar,Café,Italian Restaurant,Pizza Place,Cocktail Bar,Brewery,Beer Store
+134,Stonebridge,Brent,NW10,51.53938000000005,-0.25204999999994016,1,Pub,Café,Park,Coffee Shop,Portuguese Restaurant,Italian Restaurant,Middle Eastern Restaurant,Restaurant,Gym / Fitness Center,Thai Restaurant
+135,Stratford,Newham,E15,51.540140000000065,0.0027800000000297587,1,Pub,Café,Park,Restaurant,Grocery Store,Bar,Hotel,Art Gallery,Italian Restaurant,Coffee Shop
+136,"Sydenham (also Lower Sydenham, Upper Sydenham)",Lewisham,SE26,51.42674000000005,-0.05532999999996946,1,Pub,Italian Restaurant,Café,Coffee Shop,Pizza Place,Park,Gastropub,Indian Restaurant,Garden Center,Gym / Fitness Center
+137,"Sydenham (also Lower Sydenham, Upper Sydenham)",Bromley,SE26,51.42674000000005,-0.05532999999996946,1,Pub,Italian Restaurant,Café,Coffee Shop,Pizza Place,Park,Gastropub,Indian Restaurant,Garden Center,Gym / Fitness Center
+138,Sydenham Hill,Lewisham,SE21,51.44100000000003,-0.08896999999996069,1,Coffee Shop,Park,Pub,Pizza Place,Café,Gym / Fitness Center,Market,Brewery,Bakery,Yoga Studio
+139,Thamesmead,Bexley,SE28,51.50527000000005,0.12013000000007423,0,Supermarket,Grocery Store,Pharmacy,Coffee Shop,Fast Food Restaurant,Clothing Store,Chinese Restaurant,Gym / Fitness Center,Warehouse Store,Hardware Store
+140,Thamesmead,Greenwich,SE28,51.50527000000005,0.12013000000007423,0,Supermarket,Grocery Store,Pharmacy,Coffee Shop,Fast Food Restaurant,Clothing Store,Chinese Restaurant,Gym / Fitness Center,Warehouse Store,Hardware Store
+141,Tooting,Wandsworth,SW17,51.43037000000004,-0.1655799999999772,1,Pub,Coffee Shop,Café,Italian Restaurant,Park,Bar,Indian Restaurant,Pizza Place,French Restaurant,Burger Joint
+142,Tooting Bec,Wandsworth,SW17,51.43037000000004,-0.1655799999999772,1,Pub,Coffee Shop,Café,Italian Restaurant,Park,Bar,Indian Restaurant,Pizza Place,French Restaurant,Burger Joint
+143,Totteridge,Barnet,N20,51.63261000000006,-0.17561999999992395,1,Coffee Shop,Pub,Grocery Store,Café,Italian Restaurant,Supermarket,Park,Turkish Restaurant,Fish & Chips Shop,Greek Restaurant
+144,Upper Norwood,Croydon,SE19,51.41990000000004,-0.08807999999993399,1,Pub,Park,Italian Restaurant,Coffee Shop,Café,Gastropub,Gym / Fitness Center,Indian Restaurant,Bakery,Supermarket
+145,Upper Walthamstow,Waltham Forest,E17,51.58477000000005,-0.019429999999942993,1,Pub,Coffee Shop,Café,Park,Brewery,Restaurant,Grocery Store,Gym,Supermarket,Bakery
+146,Upton Park,Newham,E6,51.53292000000005,0.05461000000002514,0,Indian Restaurant,Hotel,Coffee Shop,Supermarket,Pub,Park,Gym / Fitness Center,Light Rail Station,Ice Cream Shop,Clothing Store
+147,Walthamstow,Waltham Forest,E17,51.58477000000005,-0.019429999999942993,1,Pub,Coffee Shop,Café,Park,Brewery,Restaurant,Grocery Store,Gym,Supermarket,Bakery
+148,Walthamstow Village,Waltham Forest,E17,51.58477000000005,-0.019429999999942993,1,Pub,Coffee Shop,Café,Park,Brewery,Restaurant,Grocery Store,Gym,Supermarket,Bakery
+149,Wandsworth,Wandsworth,SW18,51.45066000000003,-0.18996999999995978,1,Coffee Shop,Park,Pub,Pizza Place,Café,Supermarket,Grocery Store,Tennis Stadium,Gym,Breakfast Spot
+150,Wanstead,Redbridge,E11,51.576760000000036,0.027230000000031396,1,Pub,Grocery Store,Coffee Shop,Pizza Place,Café,Restaurant,Park,Supermarket,Bakery,Brewery
+151,Well Hall,Greenwich,SE9,51.444630000000075,0.05212000000005901,0,Grocery Store,Pub,Park,Platform,Gym / Fitness Center,Golf Course,Italian Restaurant,Rugby Pitch,Mediterranean Restaurant,Fish & Chips Shop
+152,West Ealing,Ealing,W13,51.514530000000036,-0.31950999999997975,1,Pub,Park,Coffee Shop,Hotel,Italian Restaurant,Café,Burger Joint,Pizza Place,Supermarket,Greek Restaurant
+153,West Ham,Newham,E13,51.52653000000004,0.02876000000003387,0,Hotel,Pub,Park,Coffee Shop,Grocery Store,Café,Indian Restaurant,Supermarket,Hotel Bar,Italian Restaurant
+154,West Heath,Bexley,SE2,51.492450000000076,0.12127000000003818,0,Grocery Store,Supermarket,Pub,Fast Food Restaurant,Bakery,Historic Site,Train Station,Clothing Store,Gastropub,Gym / Fitness Center
+155,West Hendon,Barnet,NW9,51.58486000000005,-0.24880999999993492,0,Coffee Shop,Grocery Store,Café,Gym / Fitness Center,Supermarket,Park,Pub,Chinese Restaurant,Fast Food Restaurant,Clothing Store
+156,Westcombe Park,Greenwich,SE3,51.47138000000007,0.023380000000031487,1,Pub,Park,Garden,Café,Turkish Restaurant,Historic Site,Grocery Store,Market,Furniture / Home Store,French Restaurant
+157,Whetstone,Barnet,N20,51.63261000000006,-0.17561999999992395,1,Coffee Shop,Pub,Grocery Store,Café,Italian Restaurant,Supermarket,Park,Turkish Restaurant,Fish & Chips Shop,Greek Restaurant
+158,Willesden,Brent,NW10,51.53938000000005,-0.25204999999994016,1,Pub,Café,Park,Coffee Shop,Portuguese Restaurant,Italian Restaurant,Middle Eastern Restaurant,Restaurant,Gym / Fitness Center,Thai Restaurant
+159,Wimbledon,Merton,SW19,51.421700000000044,-0.2079599999999573,1,Pub,Park,Coffee Shop,Sushi Restaurant,Tennis Stadium,Italian Restaurant,Burger Joint,Café,Tennis Court,Scenic Lookout
+160,Winchmore Hill,Enfield,N21,51.63519000000008,-0.09302999999994199,1,Pub,Coffee Shop,Supermarket,Turkish Restaurant,Gym / Fitness Center,Park,Grocery Store,Café,Greek Restaurant,Fish & Chips Shop
+161,Woodford,Redbridge,IG8,51.50642000000005,-0.1272099999999341,0,Hotel,Bookstore,Clothing Store,Theater,Plaza,Indian Restaurant,Steakhouse,Cocktail Bar,Lounge,History Museum
+162,Woodford Green,Redbridge,IG8,51.50642000000005,-0.1272099999999341,0,Hotel,Bookstore,Clothing Store,Theater,Plaza,Indian Restaurant,Steakhouse,Cocktail Bar,Lounge,History Museum
+163,Woodford Green,Waltham Forest,IG8,51.50642000000005,-0.1272099999999341,0,Hotel,Bookstore,Clothing Store,Theater,Plaza,Indian Restaurant,Steakhouse,Cocktail Bar,Lounge,History Museum
+164,Woodside Park,Barnet,N12,51.615920000000074,-0.1767399999999384,0,Coffee Shop,Grocery Store,Pub,Supermarket,Turkish Restaurant,Café,Park,Italian Restaurant,Bakery,Indian Restaurant
+165,Woolwich,Greenwich,SE18,51.48207000000008,0.07143000000002075,0,Grocery Store,Pub,Park,Café,Coffee Shop,Gym / Fitness Center,Bakery,Italian Restaurant,Discount Store,Clothing Store
